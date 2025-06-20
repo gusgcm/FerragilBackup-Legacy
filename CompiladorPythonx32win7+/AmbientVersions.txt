@@ -1,0 +1,2 @@
+170 INFO: PyInstaller: 4.10
+170 INFO: Python: 3.6.8
